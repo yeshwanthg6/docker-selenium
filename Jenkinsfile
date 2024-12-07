@@ -8,7 +8,7 @@ steps{
 }
 stage('Build docker image'){
 steps{
-    sh "docker build -t=yeshwanthg6/selenium-docker"
+    sh "docker build -t=yeshwanthg6/selenium-docker ."
 }
 }
 stage('Push docker image'){
