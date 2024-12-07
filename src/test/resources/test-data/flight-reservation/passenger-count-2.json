@@ -1,0 +1,11 @@
+{
+  "firstName": "Rama",
+  "lastName": "Dasharata",
+  "email": "rama@chandra.com",
+  "password": "Ayodhya",
+  "street": "Ayodhya",
+  "city": "UP",
+  "zip": "111111",
+  "noOfPassengers": "2",
+  "totalPrice": "$1169 USD"
+}
